@@ -6,8 +6,6 @@ Ce projet vise à développer une application interactive permettant aux utilisa
 
 Le cœur de l'application est alimenté par un modèle d'IA conversationnelle capable de comprendre et de répondre aux requêtes des utilisateurs en se basant sur le contenu des documents PDF téléchargés. Le système est conçu pour être convivial et accessible, avec une interface web développée avec Streamlit. L'objectif principal est d'améliorer l'efficacité de la récupération d'informations à partir des PDF, facilitant ainsi la recherche d'informations spécifiques sans avoir à parcourir manuellement des pages de texte.
 
-![Interface Screenshot](screenshot.JPG)
-
 ## Fonctionnalités
 
 - Téléchargement de PDF : Permet aux utilisateurs de télécharger plusieurs documents PDF.
